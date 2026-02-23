@@ -784,12 +784,12 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .header_top {
-    padding: 7px 30px;
+    padding: 1px 30px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header_top {
-    padding: 12px 0;
+    padding: 6px 0;
     display: none;
   }
 }
@@ -1060,7 +1060,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .header_middel {
-    padding: 40px 30px 18px;
+    padding: 7px 15px 7px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -1123,7 +1123,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   border: 0;
   background: #f6f6f6;
   border-right: 1px solid #ddd;
-  height: 48px;
+  height: 35px;
   border-radius: 0;
   line-height: 48px;
   border-top-left-radius: 25px;
@@ -1131,7 +1131,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .search_bar form .select_option {
-    height: 39px;
+    height: 35px;
     line-height: 39px;
     width: 100%;
     border: 1px solid #ddd;
@@ -1141,7 +1141,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 @media only screen and (max-width: 767px) {
   .search_bar form .select_option {
-    height: 39px;
+    height: 35px;
     line-height: 39px;
     width: 100%;
     border: 1px solid #ddd;
@@ -1171,7 +1171,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .search_bar form input {
-  height: 48px;
+  height: 38px;
   line-height: 50px;
   padding: 0px 70px 0 20px !important;
   width: 100%;
@@ -1209,7 +1209,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   cursor: pointer;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  line-height: 52px;
+  line-height: 35px;
   color: #747474;
 }
 .search_bar form button:hover {
@@ -1842,16 +1842,16 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .header_three .header_middel {
-  padding: 40px 30px 18px;
+  padding: 7px 15px 7px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .header_three .header_middel {
-    padding: 40px 30px 18px;
+    padding: 7px 17px 7px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .header_three .header_middel {
-    padding: 40px 30px 18px;
+    padding: 10px 7px 4px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -12880,3 +12880,9 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.logo img
+{ 
+  height: 50px;
+}
