@@ -1643,6 +1643,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .header_bottom {
     padding: 0 30px;
+    background: #e7e7e7;
   }
 }
 
