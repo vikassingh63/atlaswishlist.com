@@ -10471,7 +10471,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .progress_skill.one .progress-bar {
-  width: 60%;
+  width: 95%;
 }
 
 .progress_skill.two .progress-bar {
@@ -10479,7 +10479,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .progress_skill.three .progress-bar {
-  width: 70%;
+  width: 85%;
 }
 
 .progress_skill.four .progress-bar {
